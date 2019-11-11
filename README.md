@@ -5,6 +5,7 @@ __Development platform:__
 - Mac OS Mojave, 
 - Unity 2019.1.14f1, 
 - Visual Studio Code 1.40.0 
+- Unity 2018.3.Playmaker.1.9.0.p9
 
 __Project description:__ 
 This is a test project for improving the github workflow 
